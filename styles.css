@@ -1,0 +1,48 @@
+*{color: #6F4E37;}
+
+main, header {
+    background-color: burlywood;
+    border-radius: 25px;
+    max-width: 75%;
+    margin: auto;
+}
+
+main {
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 2px;
+}
+
+header > h2 {
+    background-color: #EADDCA;
+    border-radius: 25px;
+    margin: 5px 200px;
+}
+
+#image {
+    background-color: #EADDCA;
+    padding: 50px;
+    max-width: 300px;
+    height: 400px;
+    border-radius: 25px;
+    display: block;
+    margin: 0 auto;
+}
+
+#img-div {
+    padding-top: 25px;
+}
+
+header > p {
+    background-color: #EADDCA;
+    color: #6F4E37;
+    margin: 5px 250px;
+    padding: 5px 0;
+    border-radius: 25px;
+}
+
+
+
